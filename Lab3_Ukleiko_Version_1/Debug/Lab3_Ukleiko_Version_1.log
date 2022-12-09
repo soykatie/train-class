@@ -1,0 +1,18 @@
+﻿  Date.cpp
+  Exceptions.cpp
+  Hour.cpp
+  IDate.cpp
+  IHour.cpp
+  ITime.cpp
+  ITrain.cpp
+  ITransportInfo.cpp
+  ProcessorTrainArray.cpp
+  Source.cpp
+  Time.cpp
+  Train.cpp
+  TrainFactory.cpp
+C:\Users\Lenovo\Рабочий стол\ТП-3 семестр\lab_3\Lab3_Ukleiko_Version_1\Lab3_Ukleiko_Version_1\TrainFactory.cpp(12,23): warning C4018: '<': signed/unsigned mismatch
+  TransportInfo.cpp
+  Validator.cpp
+  Generating Code...
+  Lab3_Ukleiko_Version_1.vcxproj -> C:\Users\Lenovo\Рабочий стол\ТП-3 семестр\lab_3\Lab3_Ukleiko_Version_1\Debug\Lab3_Ukleiko_Version_1.exe
